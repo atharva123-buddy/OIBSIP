@@ -15,6 +15,17 @@ The final application allows a user to enter an SMS or email-style message and r
 
 ---
 
+## 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/📧%20Live%20Demo-Streamlit-red?style=for-the-badge)](https://oibsip-jjiuj93wahwhrn6nmxlzfm.streamlit.app/)
+
+Try the interactive Email / SMS Spam Detection application online.
+
+**Live Application:**  
+https://oibsip-jjiuj93wahwhrn6nmxlzfm.streamlit.app/
+
+---
+
 ## 🎯 Project Objectives
 
 The major objectives of this project are:
