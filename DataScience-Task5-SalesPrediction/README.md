@@ -10,6 +10,12 @@
 
 ---
 
+## 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/📈%20Live%20Demo-Streamlit-red?style=for-the-badge)](https://oibsip-cod3adjuqdptywfuappnkbq.streamlit.app/)
+
+---
+
 ## 📌 Project Overview
 
 This project is part of the OASIS INFOBYTE Data Science Internship and focuses on predicting product sales using advertising expenditure.
