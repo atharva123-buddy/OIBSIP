@@ -23,6 +23,13 @@ model serialization, and an interactive Streamlit dashboard.
 
 ------------------------------------------------------------------------
 
+## 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/🚗%20Live%20Demo-Streamlit-red?style=for-the-badge)](https://oibsip-bxdvcwbsed4kvqxvtufl8u.streamlit.app/)
+
+Try the interactive car price prediction dashboard online.
+---
+
 # 🎯 Objectives
 
 1.  Understand the structure of the used-car dataset.
