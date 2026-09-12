@@ -3,6 +3,3 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .env
-
-# Task 3 dataset
-DataScience-Task3-CarPricePrediction/data/*.csv
